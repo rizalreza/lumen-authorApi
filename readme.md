@@ -61,9 +61,9 @@ Documentation for the framework can be found on the [Lumen website](http://lumen
 
 | 		URL         | HTTP Method |               Operation                |
 |:-----------------:| :---------: |:--------------------------------------:|
-| /api/book      |  GET 	      | Returns an array of **book **        |
-| /api/book/:id  |  GET        | Returns the **book ** with id of :id |
-| /api/book       |  POST       | Adds a new **book ** and return it   |
-| /api/book/:id  |  PUT        | Updates the **book ** with id of :id |
-| /api/book/:id  |  DELETE     | Deletes the **book ** with id of :id |
+| /api/book      |  GET 	      | Returns an array of **book**        |
+| /api/book/:id  |  GET        | Returns the **book** with id of :id |
+| /api/book       |  POST       | Adds a new **book** and return it   |
+| /api/book/:id  |  PUT        | Updates the **book** with id of :id |
+| /api/book/:id  |  DELETE     | Deletes the **book** with id of :id |
 
